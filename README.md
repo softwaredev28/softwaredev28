@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Software Developer</h1>
 <h3 align="center">A passionate frontend - backend developer from Indonesia</h3>
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" style="border-radius:20"/>
+<img align="right" width="400" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif" style="border-radius:20"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketsar28&label=Profile%20views&color=0e75b6&style=flat" alt="ketsar28" /> </p>
 

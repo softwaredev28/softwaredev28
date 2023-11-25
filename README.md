@@ -25,3 +25,31 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ketsar28&show_icons=true&locale=en" alt="ketsar28" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ketsar28&" alt="ketsar28" /></p>
+
+
+### 🏆 GitHub Profile Trophy:
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=ketsar28&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+## 👀 Visitors
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/victormoreiraofc/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</p>
